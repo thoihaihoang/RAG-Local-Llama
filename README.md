@@ -1,4 +1,4 @@
-# RAG (Retrieval Augmented Generation) with local models
+# RAG (Retrieval Augemented Generation) with local models
 
 ![header](/docs/header.png?raw=true "header")
 
